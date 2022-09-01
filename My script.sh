@@ -1,4 +1,5 @@
 #!/bin/bash
+# Patching script
 df -hT
 lsblk
 yum update
